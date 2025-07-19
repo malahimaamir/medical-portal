@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+# Medical Portal
 
-## Project info
+A web application built with TypeScript for managing and accessing medical or healthcare-related information.
 
-**URL**: https://lovable.dev/projects/30c027ec-f470-49d0-b9eb-36508467a5c2
+## Features
+- User-friendly portal for healthcare management
+- Potential for patient, doctor, and admin interfaces
+- Scalable codebase using TypeScript
 
-## How can I edit this code?
+## Technologies Used
+- TypeScript
 
-There are several ways of editing your application.
+## Installation
 
-**Use Lovable**
+```bash
+# Clone the repository
+git clone https://github.com/malahimaamir/medical-portal.git
+cd medical-portal
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/30c027ec-f470-49d0-b9eb-36508467a5c2) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+# Install dependencies (edit as needed for your project)
+npm install
 ```
 
-**Edit a file directly in GitHub**
+## Usage
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+# Start the development server (edit as needed)
+npm start
+```
 
-**Use GitHub Codespaces**
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## License
+Specify your license here (e.g., MIT, Apache 2.0).
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/30c027ec-f470-49d0-b9eb-36508467a5c2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## Contact
+[malahimaamir on GitHub](https://github.com/malahimaamir)
